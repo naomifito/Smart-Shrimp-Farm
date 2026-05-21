@@ -1,4 +1,4 @@
-# Smart-Shrimp-Farm
+# Smart Shrimp Farm
 IoT-based shrimp farm monitoring system using ESP32 and Wokwi simulation.
 
 ## Features
