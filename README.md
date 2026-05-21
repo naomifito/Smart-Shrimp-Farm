@@ -1,6 +1,9 @@
 # Smart Shrimp Farm
 IoT-based shrimp farm monitoring system using ESP32 and Wokwi simulation.
 
+## Wokwi Simulation Preview
+![Wokwi Preview](wokwi.png)
+
 ## Features
 - Water quality monitoring
 - Real-time monitoring system
